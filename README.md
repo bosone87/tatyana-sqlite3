@@ -7,7 +7,7 @@ sudo apt-get install sqlite3
 
 **Создаём базу данных learning.db**
 ```bash
-sqlite3 learning.bd
+sqlite3 learning.db
 ```
 
 **Создаём таблицы со связями между собой**
